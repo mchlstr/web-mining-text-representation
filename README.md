@@ -5,6 +5,9 @@ Exercises from the subject Web Mining on the topic * Representation of text *.
 
 Tasks are in Slovak language, solution notes in codes are in English.
 
+Solutions are provided in Jupiter notebook, as well as, exported to python (.py).
+The first task has solution only in Excel.
+
 ## Tasks
 
 Task 1:
@@ -29,7 +32,7 @@ The repository contains:
 
 - 3 exercises
 - 5 sample texts in English
-- 3 solutions (excel, python)
+- 3 solutions (excel, jupiter notebook, python)
 
 
 ## SK
@@ -37,6 +40,9 @@ The repository contains:
 
 Cvičenia z predmetu Web Mining na temu *Reprezentácia textu*.
 Zadania sú v slovenčine, poznámky k riešeniam v angličtine.
+
+Riešenia sú v programe Jupiter notebook a rovnako exportovane do pythonu (.py).
+Prvé zadanie má iba riešenie v exceli.
 
 ## Zadania
 
@@ -62,4 +68,4 @@ Repozitár obsahuje:
 
 - 3 cvičenia
 - 5 ukažkových textov v angličtine
-- 3 riešenia (excel, python)
+- 3 riešenia (excel, jupiter notebook, python)
