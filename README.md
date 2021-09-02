@@ -28,7 +28,7 @@ Task 3:
 The repository contains:
 
 - 3 exercises
-- 5 textbooks in English
+- 5 sample texts in English
 - 3 solutions (excel, python)
 
 
@@ -61,5 +61,5 @@ Zadanie 3:
 Repozitár obsahuje:
 
 - 3 cvičenia
-- 5 ukačkových textov v angličtine
+- 5 ukažkových textov v angličtine
 - 3 riešenia (excel, python)
