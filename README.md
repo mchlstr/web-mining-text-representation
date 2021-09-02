@@ -1,7 +1,7 @@
 ## EN
 ## Text representations
 
-Exercises from the subject Web Mining on the topic * Representation of text *.
+Exercises from the subject Web Mining on the topic *Representation of text*.
 
 Tasks are in Slovak language, solution notes in codes are in English.
 
